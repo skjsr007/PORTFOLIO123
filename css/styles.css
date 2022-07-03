@@ -5,6 +5,7 @@ body{
 }
 .navbar{
   display: flex;
+  width:100%;
   padding: 20px 56px;
   background-color: #5089C6;
 
